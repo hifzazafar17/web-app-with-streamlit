@@ -1,0 +1,21 @@
+Assignment Level 1,Assignment Level 2,Assignment Level 3,Assignment Level 4,Assignment Level 5
+CrewAI Development Lifecycle,LangGraph Development Lifecycle,Enterprise-Scale Autogen Orchestration,Agentia World Production Platform,Become a Venture Innovator and Leader
+1. Anthropic design patterns,1. LangGraph Functional API,1. Autogen > 0.4,1. Select and Build vertical agents that can be used with inter-agent communication protocol,"1. Identify market gap, research and come up with startup idea to become CoFounder"
+2. Crewai flows implementation of design pattern and Litellm,2. LangGraph design pattern implementation with langchain,2. MCP with autogen,2. Select and Build MCP servers,
+"3. Crews, agents, tasks in crewai",3. task and entrypoint,3. Stripe with autogen,3. Stripe payment,
+"4. Knowledge, RAG in crewai","4. Knowledge, RAG in langGraph",4. Deployment with serverless container (Azure),4. Observability,
+5. Function calling in crewai,5. Function calling in langGraph,5. Unit and integration testing along with test coverage and reporting with pytest,5. Unit and integration testing along with test coverage and reporting with pytest,
+6. Memory in crewai,6. Memory in langGraph,6. Inter-agent communication with all other agents,,
+7. MCP (model context protocol) in depth,7. MCP integration in langGraph,,,
+"8. MCP integration in crewai with crews, agents and task",8. Stripe agentic payments with langGraph,,,
+9. MCP integration with litellm,9. langGraph default deployment (LangServer),,,
+10. Stripe agentic payments,"10. langGraph deployment with cloud native (Docker, Kubernetes)",,,
+11. Research payments alternatives,"11. langGraph deployment with Serverless Containers (Docker, Azure container apps)",,,
+12. Crewai default deployment,12. Next.js UI integration with langGraph,,,
+"13. Crewai deployment with cloud native (Docker, Kubernetes)",13. langGraph inter agent communication (deployed separately),,,
+"14. Crewai deployment with Serverless Containers (Docker, Azure container apps)",14. Observability with langSmith,,,
+15. Next.js UI integration with crewai,15. Unit and integration testing along with test coverage and reporting with pytest,,,
+16. Crewai inter-agent communication (deployed separately),16. LangGraph and crewai inter-agent communication (deployed separately),,,
+17. Observability with AgentOps,17. Research on inter-agent communication protocols,,,
+18. Unit and integration testing along with test coverage and reporting with pytest,,,,
+19. Crewai automated coding with cursor and GitHub copilot,,,,
